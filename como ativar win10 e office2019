@@ -1,0 +1,5 @@
+1.Na barra de pesquisa rápida, pesquise PowerShell e entre como administrador, cole o seguinte código:
+irm https://get.activated.win | iex
+
+2. Após colar o código, no cmd(prompt de comando), selecione as seguintes opções:
+1,0,2,1
