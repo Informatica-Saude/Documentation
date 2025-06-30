@@ -1,0 +1,15 @@
+Faça backup dos seus arquivos Copie documentos, fotos, vídeos e qualquer coisa importante para um pendrive, HD externo ou nuvem (como Google Drive ou OneDrive).
+
+Tenha em mãos o instalador do sistema operacional Baixe a imagem ISO do Windows no site oficial da Microsoft e use uma ferramenta como o Rufus para criar um pen drive bootável.
+
+Configure a BIOS/UEFI para iniciar pelo pendrive Reinicie o PC e entre na BIOS/UEFI (geralmente apertando F2, DEL, ESC ou F12 logo ao ligar). Mude a ordem de boot e coloque o pendrive como primeira opção.
+
+Inicie a instalação do Windows Com o pendrive conectado, reinicie o PC. Ele vai iniciar o instalador do Windows. Siga as instruções até chegar à tela de partições.
+
+Apague a partição antiga e crie uma nova Quando aparecer a lista de discos, exclua a partição onde o Windows estava instalado. Depois clique em “Novo” para criar uma nova e continue.
+
+Instale o Windows O instalador vai copiar os arquivos e reiniciar o computador algumas vezes. Só seguir os passos e preencher as informações como nome, senha, etc.
+
+Instale os drivers e atualizações Quando o Windows abrir, conecte-se à internet e baixe os drivers do fabricante do seu PC (ou use o Windows Update para automatizar isso).
+
+Reinstale seus programas e restaure seus arquivos Instale o navegador, pacote Office, antivírus, etc. Depois, copie seus arquivos de volta.
