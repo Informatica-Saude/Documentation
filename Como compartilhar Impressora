@@ -1,0 +1,39 @@
+1. Conecte e instale a impressora no computador principal
+Primeiro, a impressora precisa estar funcionando no computador onde ela está conectada (pode ser por cabo USB ou Wi-Fi).
+
+Faça um teste de impressão pra ter certeza.
+
+2. Conecte os computadores à mesma rede
+Todos os computadores que vão usar a impressora devem estar na mesma rede Wi-Fi ou cabo.
+
+3. Ative o compartilhamento de arquivos e impressoras
+No computador da impressora, vá em: Painel de Controle > Rede e Internet > Central de Rede e Compartilhamento > Alterar configurações de compartilhamento avançadas
+
+Ative as opções:
+
+"Ativar descoberta de rede"
+
+"Ativar o compartilhamento de arquivos e impressoras"
+
+Salve as alterações.
+
+4. Compartilhe a impressora
+Vá em: Painel de Controle > Dispositivos e Impressoras
+
+Clique com o botão direito na impressora > "Propriedades da impressora"
+
+Vá na aba "Compartilhamento"
+
+Marque a opção "Compartilhar esta impressora"
+
+Dê um nome fácil (ex: "ImpressoraCasa")
+
+5. Adicione a impressora em outro computador
+No outro PC que quer usar a impressora, vá em: Painel de Controle > Dispositivos e Impressoras > Adicionar uma impressora
+
+O Windows vai procurar. Aguarde aparecer o nome da impressora compartilhada. Clique nela > Avançar.
+
+Se não aparecer, clique em "A impressora que eu quero não está listada" e digite:
+
+\\NOMEDOCOMPUTADOR\NomeDaImpressora
+(Exemplo: \\PCDoJoão\ImpressoraCasa)
