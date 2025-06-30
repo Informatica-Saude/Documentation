@@ -1,0 +1,44 @@
+
+
+ Materiais que você vai precisar:
+1. Cabo de rede (UTP, categoria 5e ou 6)
+2. Conectores RJ-45
+3. Alicate de crimpagem
+4. Decapador de cabo (ou uma faquinha com cuidado)
+5. Testador de cabo (opcional, mas bom pra conferir)
+
+
+
+ Passo a passo:
+ 1. Corte o cabo no tamanho desejado
+Use o alicate pra deixar o cabo com o comprimento ideal para o uso.
+
+2. Retire cerca de 2 a 3 cm da capa do cabo
+Com cuidado, corte a capa plástica do cabo (sem danificar os fios internos). Você verá 4 pares de fios trançados.
+
+3. Desenrole os pares de fios e alinhe-os na ordem correta
+
+
+Ordem dos fios no padrão  TIA/EIA 568A (do pino 1 ao pino 8):
+1.Branco/Verde
+2.Verde
+3.Branco/Laranja
+4.Azul
+5.Branco/Azul
+6.Laranja
+7.Branco/Marrom
+8.Marrom.
+
+
+
+4. Corte os fios na mesma altura
+Depois de alinhar os fios na ordem certa, corte todos juntos bem retinhos pra caber direitinho no conector.
+
+5. Insira os fios no conector RJ-45
+Com os fios alinhados e cortados, coloque-os no conector com a trava virada para baixo. Os fios devem ir até o fim do conector.
+
+6. Use o alicate de crimpagem
+Coloque o conector no alicate e aperte com firmeza para fixar os fios no conector. Repita o processo na outra ponta do cabo.
+
+7. Teste o cabo (opcional, mas recomendado)
+Use o testador de cabo de rede pra garantir que tudo está conectado corretamente.
