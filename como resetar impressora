@@ -1,0 +1,15 @@
+Senha para descompactar: reset
+
+Antes de descompactar, desligar o antivírus e DESCONECTE SEU PC DA INTERNET
+
+Instruções para abrir o programa:
+
+1. abra o AdjProg.exe na pasta Reset_L3250_3210_5290;
+
+2. Copie o Hardware ID da janela inicial do AdjProg.exe;
+
+3. Abra o Gerador de chave e copie o Hardware ID no campo Hardware, coloque seu nome em "Registration name" e clique em "Generate".
+
+4. Essa chave gerada você coloca no campo "key", então digite seu nome, conforme você tinha digitado anteriormente na janela do Gerador de chave em "Name" e, por fim, clique em "Register".
+
+Com isso, você já poderá usar o resetador para proceder com o reset de sua impressora, conforme o tutorial do site.
