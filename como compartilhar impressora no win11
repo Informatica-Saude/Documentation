@@ -1,0 +1,9 @@
+verifique se no computador padrão a impressora está sendo compartilhada ( vá em impressoras e scanners > clique na impressora que será compartilhada > gerenciar > Propriedades da impressora > Compartilhamento > ative COMPARTILHAR ESSA IMPRESSORA).
+verifique se ambos os computadores esta ativo as opçoes em COMPARTILHAMENTO AVANÇADO:
+compartilhamento avançadas > Particular > Descoberta de rede > selecione ATIVAR DESCOBERTA DE REDE e ATIVAR COMPARTILHAMENTO DE ARQUIVO 
+E IMPRESSORA, ATIVE as MESMAS opçoes dentro de CONVIDADO OU PUBLICO e em TODAS AS REDES  DESATIVE o COMPARTILHAMENTO PROTEGIDO POR SENHA.
+
+feito isso, no computador de win11, execute o PowerShell como ADMINISTRADOR e cole o seguinte comando:
+md -force HKLM:\SOFTWARE\Policies\Microsoft\Windows\LanmanWorkstation | %{New-ItemProperty -Force $_.PsPath AllowInsecureGuestAuth -Value 1}
+
+logo após, adicione a impressora desejada.
